@@ -1,0 +1,51 @@
+html
+{
+    background-color:#f0e7e5;
+    font-size: 14px;
+    max-width: 100%;
+}
+
+p, h1, h2, ul, a, table
+{
+    color:#408C30;
+}
+
+#page
+{
+    margin:auto;
+    background-color: #e8d0d0;
+    max-width: 80%;
+    border-radius: 40px;
+}
+
+.entete
+{
+    margin:auto;
+    width:50%;
+    text-align: center;
+}
+
+table
+{
+    margin:auto;
+}
+
+img
+{
+    max-width: 40%;
+}
+
+h1
+{
+    font-size: 35px;
+}
+
+h2
+{
+    font-size: 25px;
+}
+
+footer
+{ 
+    text-align: center;
+}
